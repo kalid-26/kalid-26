@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kalid-26
+- 👋 Hi, I’m Kalid Mohammed
 - 👀 I’m interested in Developing and Designing Modern Websites
 - 🌱 I’m currently learning Modern Web development
 - 💞️ I’m looking to collaborate on full stack Django web development
